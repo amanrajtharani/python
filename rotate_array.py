@@ -12,4 +12,4 @@ for i in range(rt_num,len(arr)):
             arr[i] = arr[k]
             arr[k] = num
 
-
+print(arr)
