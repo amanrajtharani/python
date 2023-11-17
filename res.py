@@ -5,7 +5,6 @@ class User:
         self.age = age
         self.caste = caste
         self.log_attempts = log_attempts
-
     def desc(self):
         print("first name ", self.f_name)
         print("last name ", self.l_name)
